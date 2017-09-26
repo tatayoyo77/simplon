@@ -72,7 +72,7 @@ public class FactorielleTest {
 
 	@Test (timeout=1000)
 	public void testCalculLent () throws InterruptedException {
-		Thread.sleep(10000);
+		Thread.sleep(10000); 
 	}
 	
 	@Test 
